@@ -39,4 +39,4 @@ Screenshots (concept and experience), Video
 
 ### Lessons Learned: 
 
-Copyright by smeerws :)
+Copyright by trampimi :)
