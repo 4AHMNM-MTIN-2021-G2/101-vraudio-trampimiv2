@@ -18,4 +18,8 @@ public class AnimateDoorScript : MonoBehaviour
     {
         myAnimator.SetBool("openDoor", true);
     }
+    public void DoorAnimationClosed()
+    {
+        myAnimator.SetBool("openDoor", false);
+    }
  }
