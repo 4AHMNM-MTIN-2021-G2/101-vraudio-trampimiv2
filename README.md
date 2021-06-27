@@ -1,4 +1,4 @@
-![screenshotMaze](https://user-images.githubusercontent.com/56028850/123547211-2f941c00-d760-11eb-8409-af83282485f6.JPG)
+
 # 101-vraudio-trampimiv2
 
 ### Project description: 
