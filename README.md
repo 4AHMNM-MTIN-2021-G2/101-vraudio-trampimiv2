@@ -1,3 +1,4 @@
+
 # 101-vraudio-trampimiv2
 
 ### Project description: 
@@ -30,6 +31,8 @@ Tested on Oculus Rift S
 
 ### Visuals: 
 Screenshots (concept and experience), Video
+![screenshotMaze](https://user-images.githubusercontent.com/56028850/123547248-52becb80-d760-11eb-8907-f258b4abccb3.JPG)
+
 
 ### Third party material: 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
