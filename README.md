@@ -39,7 +39,7 @@ Screenshots (concept and experience), Video
 <progress max="100" value="2"></progress>
 
 ### Limitations: 
-
+Copying from other project lead to errors. 
 
 ### Lessons Learned:
 Scriptable Objects
